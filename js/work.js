@@ -1,13 +1,13 @@
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { SplitText } from "gsap/all";
+import data from '/repository/data.json';
 
 document.addEventListener("DOMContentLoaded", async () => {
   const container = document.getElementById("workItemsContainer");
 
   try {
-    const res = await fetch("/repository/data.json");
-    const { projects } = await res.json();
+    const { projects } = data;
 
     for (let i = 0; i < projects.length; i += 2) {
       const rowDiv = document.createElement("div");

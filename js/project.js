@@ -1,18 +1,16 @@
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { SplitText } from "gsap/all";
+import data from '/repository/data.json';
 
-document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", () => {
   const slug = location.hash.slice(1);
 
   try {
-    const res = await fetch("/repository/data.json");
-    const data = await res.json();
-
     const project = data.projects.find(p => p.slug === slug);
     // if (!project) return (document.body.innerHTML = "<h1>404: Not Found</h1>");
 
-    document.querySelector(".project-hero-footer-tags p").textContent = `Project 000${project.id}`;
+    document.querySelector(".project-hero-footer-tags p").textContent = `Project 000${project?.id}` || "Project 0001";
     document.querySelector(".project-hero-header-h1 h1").textContent = project.title;
     document.querySelector(".project-tags p").textContent = project.description;
     document.querySelector(".project-hero-description p").textContent = project.details;
