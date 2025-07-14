@@ -251,6 +251,14 @@
     display: none;
   }
 
+  .hero .hero-footer .hero-footer-tags {
+    display: none;
+  }
+
+  .hero .hero-footer-scroll-down{
+    text-align: center !important;
+  }
+
   .hero .hero-footer {
     display: flex;
     justify-content: flex-end;
@@ -258,6 +266,7 @@
 
   .hero .hero-footer .hero-footer-scroll-down {
     left: 2em;
+    right: 1.2rem;
     transform: translateX(0%);
   }
 
