@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "slug": "eagleson-engine",
+      "title": "EagleSON Engine",
+      "description": "The Brain Behind Your Future Software",
+      "details": "EagleSON Engine is a cutting-edge platform designed to revolutionize software development. It leverages advanced AI and machine learning algorithms to streamline the coding process, making it faster and more efficient. With features like code generation, debugging assistance, and real-time collaboration, EagleSON Engine empowers developers to focus on creativity and innovation rather than mundane tasks.",
+      "image": "/images/work-items/work-item-1.jpg"
+    },
+    {
+      "id": "2",
+      "slug": "property-on-location",
+      "title": "Property On Location",
+      "description": "Full Stack Property Listing Platform",
+      "details": "Property On Location is a comprehensive full-stack platform that connects buyers, sellers, and renters in the real estate market. It features an intuitive user interface, advanced search capabilities, and secure transaction processes. The platform supports property listings with detailed descriptions, high-quality images, and location-based services to enhance user experience and facilitate seamless real estate transactions.",
+      "image": "/images/work-items/work-item-2.jpg"
+    },
+    {
+      "id": "3",
+      "slug": "futurebuilder",
+      "title": "FutureBuilder",
+      "description": "Talk your way to software",
+      "details": "FutureBuilder is an innovative platform that allows users to create software solutions through natural language processing. By simply describing their requirements, users can generate functional code snippets, automate workflows, and build applications without needing extensive programming knowledge. FutureBuilder aims to democratize software development, making it accessible to everyone, regardless of technical expertise.",
+      "image": "/images/work-items/work-item-3.jpg"
+    },
+    {
+      "id": "4",
+      "slug": "laas",
+      "title": "LaaS - Lighthouse as a Service",
+      "description": "The eyewitness of how your software was built",
+      "details": "LaaS (Lighthouse as a Service) is a unique platform that provides transparency and accountability in software development. It acts as a digital lighthouse, offering insights into the development process, code quality, and project management. LaaS helps teams track progress, identify bottlenecks, and ensure that best practices are followed throughout the software lifecycle, ultimately leading to higher quality products.",
+      "image": "/images/work-items/work-item-4.jpg"
+    },
+    {
+      "id": "5",
+      "slug": "cub",
+      "title": "CUB – Coder Unknown’s Battleground",
+      "description": "Where code meets competition",
+      "details": "CUB (Coder Unknown’s Battleground) is a competitive coding platform that challenges developers to solve complex problems in a gamified environment. It features various coding challenges, contests, and leaderboards to foster a spirit of competition and learning. CUB aims to enhance coding skills through practice and collaboration, making it a go-to destination for aspiring and experienced developers alike.",
+      "image": "/images/work-items/work-item-5.jpg"
+    },
+    {
+      "id": "6",
+      "slug": "byos",
+      "title": "BYOS - Build Your Own Salad",
+      "description": "Design your tech stack. Mix it your way",
+      "details": "BYOS (Build Your Own Salad) is a customizable tech stack platform that allows developers to mix and match various technologies to create their ideal software environment. It provides a modular approach to software development, enabling users to select components based on their specific needs and preferences. BYOS promotes flexibility and innovation by allowing developers to experiment with different technologies without being locked into a single solution.",
+      "image": "/images/work-items/work-item-6.jpg"
+    },
+    {
+      "id": "7",
+      "slug": "nts",
+      "title": "NTS - Notes Transformer Studio",
+      "description": "Turn video learning into content, monetized",
+      "details": "NTS (Notes Transformer Studio) is a powerful platform that transforms video content into structured notes and educational materials. It uses advanced AI algorithms to analyze video lectures, extract key information, and generate concise summaries. NTS aims to enhance learning experiences by providing users with easily digestible content that can be monetized through various channels, such as online courses and educational resources.",
+      "image": "/images/work-items/work-item-7.jpg"
+    },
+    {
+      "id": "8",
+      "slug": "cii",
+      "title": "CII – Context Intelligence Interface",
+      "description": "Talk to your content. Get answers. Build personalized AI Mentors.",
+      "details": "CII (Context Intelligence Interface) is an advanced AI platform that enables users to interact with their content in a conversational manner. It leverages natural language processing to understand user queries and provide relevant answers based on the context of the content. CII allows users to build personalized AI mentors that can assist with learning, research, and decision-making, making information retrieval more intuitive and efficient.",
+      "image": "/images/work-items/work-item-8.jpg"
+    },
+    {
+      "id": "9",
+      "slug": "ranson-engine",
+      "title": "RanSON Engine",
+      "description": "Train like a pro. Interview like a master.",
+      "details": "RanSON Engine is a comprehensive training and interview preparation platform designed for aspiring software developers. It offers a wide range of coding challenges, mock interviews, and personalized feedback to help users improve their skills and confidence. RanSON Engine aims to bridge the gap between theoretical knowledge and practical application, ensuring that users are well-prepared for real-world coding interviews and job opportunities.",
+      "image": "/images/work-items/work-item-9.jpg"
+    },
+    {
+      "id": "10",
+      "slug": "daas",
+      "title": "DAAS – Documentation as a Service",
+      "description": "Your product speaks. Now let it explain.",
+      "details": "DAAS (Documentation as a Service) is a platform that automates the creation and management of software documentation. It uses AI to generate comprehensive, user-friendly documentation based on code comments, project specifications, and user feedback. DAAS aims to enhance the usability of software products by providing clear, accessible documentation that helps users understand and utilize features effectively.",
+      "image": "/images/work-items/work-item-10.jpg"
+    }
+
+  ]
+}
