@@ -114,6 +114,7 @@ footer .explosion-particle-img {
     flex-direction: column;
     text-align: center;
     gap: 0.5em;
+    margin-bottom: 1.4em;
   }
 
   footer .copyright-info p:nth-child(2) {
